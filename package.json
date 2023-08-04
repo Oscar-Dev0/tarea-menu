@@ -1,0 +1,11 @@
+{
+  "name": "tarea-menu",
+  "version": "0.0.1-Beta",
+  "description": "Intento de hacer un menu de consola",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "oscar-dev",
+  "license": "ISC"
+}
